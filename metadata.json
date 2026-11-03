@@ -1,0 +1,6 @@
+{
+  "name": "Telora",
+  "description": "Real-time worldwide voice, video calling and instant messaging platform built with WebRTC and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
